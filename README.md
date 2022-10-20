@@ -11,4 +11,5 @@ Examples of data:
 Examples of clustered images:
 ![alt text](https://github.com/Prop-rus/BrainWeb_clustering/blob/main/images/clust_sample.png)   
 Gifs:
+![alt text](https://github.com/Prop-rus/BrainWeb_clustering/blob/main/images/mygif.gif)   
 
